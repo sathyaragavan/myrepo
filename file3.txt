@@ -1,1 +1,2 @@
 Third file. File changed.Changes not visible.
+Changing the file in the repository.
