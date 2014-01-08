@@ -2,3 +2,4 @@ Sub file 1.
 New line added.
 Another new line added.
 This line is going to be pushed to the remote server.
+Trying the git pull command
